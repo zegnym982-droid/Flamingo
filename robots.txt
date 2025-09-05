@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Укажите ссылку на свою карту сайта и домен
+Sitemap: https://example.com/sitemap.xml
